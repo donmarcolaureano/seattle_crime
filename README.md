@@ -23,6 +23,6 @@ The data for this project is too large for the github repository but it can be f
 | Sector  | Designated police sector boundary where offense(s) occurred  |
 | Beat  | Designated police beat boundary where offense(s) occurred | 
 | MCPP_Neighborhood  | Designated Micro-Community Policing Plans (MCPP) boundary where offense(s) occurred |
-| Blurred_Address  | Offense(s) address location blurred to the one hundred block |
+| 100 Block Address  | Offense(s) address location blurred to the one hundred block |
 | Blurred_Longitude Coordinate | Offense(s) spatial coordinate blurred to the one hundred block |
 | Blurred_Latitude Coordinate |  Offense(s) spatial coordinate blurred to the one hundred block | 
