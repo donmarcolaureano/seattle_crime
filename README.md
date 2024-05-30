@@ -93,3 +93,6 @@ The data for this project is too large for the github repository but it can be f
 | 39C  | Gambling Equipment Violations  |     
 
 For more detailed information about each offense, the NIBRS process, and any other frequently asked questions please see the <a href="https://github.com/donmarcolaureano/seattle_crime/blob/main/Data/WA%20Uniform%20Crime%20Reporting%20Program%20NIBR%20codes.pdf"> Washington State Uniform Crime Reporting Program Handbook</a>
+
+## Crime Database
+Coming soon
