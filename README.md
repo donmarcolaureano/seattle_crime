@@ -6,6 +6,8 @@ This dataset contains all of Seattle Police Department's records of reported cri
 ## Data
 The data for this project is too large for the github repository but it can be found <a href="https://data.seattle.gov/Public-Safety/SPD-Crime-Data-2008-Present/tazs-3rd5/about_data"> here </a>
 
+Inspiration for this project is based off of Washington Association of Sheriffs and Police Chiefs <a href="https://github.com/donmarcolaureano/seattle_crime/tree/main/Inspiration">2022 Crime in Washington Annual Report </a>
+
 ## Data Dictionary
 | Field Name     | Description  |
 | ---------------  | -----------  |
