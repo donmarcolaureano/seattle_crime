@@ -98,6 +98,10 @@ For more detailed information about each offense, the NIBRS process, and any oth
 
 ## Crime Seasonality
 <img width="1082" alt="Screenshot 2024-08-03 at 10 53 01 AM" src="https://github.com/user-attachments/assets/fe68e93f-e440-4439-9b67-08e4afe28b46">
+<img width="1085" alt="Screenshot 2024-08-03 at 10 53 59 AM" src="https://github.com/user-attachments/assets/dfd2a8f7-794a-4299-895f-2022c0161ac8">
+<img width="1084" alt="Screenshot 2024-08-03 at 10 54 17 AM" src="https://github.com/user-attachments/assets/c1b9a49b-b99c-4afe-bedf-6161b6cf3174">
+<img width="1086" alt="Screenshot 2024-08-03 at 10 54 30 AM" src="https://github.com/user-attachments/assets/d784067f-0d76-47f6-8b31-ddfb24945049">
+<img width="1083" alt="Screenshot 2024-08-03 at 10 54 42 AM" src="https://github.com/user-attachments/assets/aa5d8475-cc73-45f0-a1cb-1c894f50c21b">
 
 
 ## Crime Database
