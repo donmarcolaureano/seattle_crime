@@ -8,6 +8,9 @@ The data for this project is too large for the github repository but it can be f
 
 Inspiration for this project is based off of Washington Association of Sheriffs and Police Chiefs <a href="https://github.com/donmarcolaureano/seattle_crime/tree/main/Inspiration">2022 Crime in Washington Annual Report </a>
 
+## NOTE
+As of 8/3/2024 I am having issues with pushing updates into Github (possibly due to file size). I am currently looking into a solution but for now, will be adding updates via screenshot to the readme
+
 ## Data Dictionary
 | Field Name     | Description  |
 | ---------------  | -----------  |
